@@ -1,27 +1,27 @@
 [
   {
     "icon": "Blog",
-    "name": "iMikufans博客",
-    "link": "https://blog.imikufans.com/"
+    "name": "班级主页&DeepSeek AI",
+    "link": "https://class5.imikufans.com/"
   },
   {
     "icon": "Cloud",
-    "name": "V家资源网盘",
-    "link": "https://voicebanks.imikufans.com"
+    "name": "班级相册（未开放）",
+    "link": "https://class5.imikufans.com"
   },
   {
     "icon": "Book",
-    "name": "VOCAKEY Wiki",
-    "link": "https://vocakey.imikufans.com"
+    "name": "AI搜索",
+    "link": "https://metaso.cn/"
   },
   {
     "icon": "CompactDisc",
-    "name": "有为动漫社",
-    "link": "https://dms.imikufans.com/"
+    "name": "微软天气",
+    "link": "https://www.msn.cn/zh-cn/weather/forecast/in-%E5%B9%BF%E4%B8%9C%E7%9C%81,%E6%B7%B1%E5%9C%B3%E5%B8%82?loc=eyJsIjoi6b6Z5bKX5Yy6IiwiciI6IuW5v%2BS4nOecgSIsInIyIjoi5rex5Zyz5biCIiwiYyI6IuS4reWNjuS6uuawkeWFseWSjOWbvSIsImkiOiJDTiIsImciOiJ6aC1jbiIsIngiOiIxMTQuMTc4IiwieSI6IjIyLjY1MSJ9&ocid=ansmsnweather&weadegreetype=C"
   },
   {
     "icon": "Fire",
-    "name": "PJSK表情生成",
-    "link": "https://pjsk.imikufans.com/"
+    "name": "Kimi AI",
+    "link": "https://kimi.moonshot.cn/"
   }
 ]
