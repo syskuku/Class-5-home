@@ -39,13 +39,13 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 // 更换壁纸链接
 const changeBg = (type) => {
   if (type == 0) {
-    bgUrl.value = `https://blog.imikufans.com/wp-content/uploads/2024/01/111314989_p0.jpg`;
+    bgUrl.value = `/images/background${Math.floor(Math.random() * 10 + 1)}.webp`;
   } else if (type == 1) {
-    bgUrl.value = "https://blog.imikufans.com/wp-content/uploads/2024/01/111314989_p0.jpg";
+    bgUrl.value = "/images/background${Math.floor(Math.random() * 10 + 1)}.webp";
   } else if (type == 2) {
-    bgUrl.value = "https://blog.imikufans.com/wp-content/uploads/2024/01/111314989_p0.jpg";
+    bgUrl.value = "/images/background${Math.floor(Math.random() * 10 + 1)}.webp";
   } else if (type == 3) {
-    bgUrl.value = "https://blog.imikufans.com/wp-content/uploads/2024/01/111314989_p0.jpg";
+    bgUrl.value = "/images/background${Math.floor(Math.random() * 10 + 1)}.webp";
   }
 };
 
